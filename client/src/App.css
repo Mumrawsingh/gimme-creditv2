@@ -1,0 +1,113 @@
+/* .App {
+  text-align: center;
+} */
+
+.App-logo {
+  height: 7vmin;
+  width: 70vmin;
+  /* padding-right: 850px; */
+  pointer-events: none;
+ 
+} 
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+} */
+
+/* .App-header {
+  background-color: #e7e7e7;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #333535;
+} */
+
+/* .App-link {
+  color:green;
+} */
+
+/* @keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+/* This is the CSS used for : Logo on Login page */
+.App-logo {
+  height: 7vmin;
+  width: 70vmin;
+  /* padding-right: 850px; */
+  pointer-events: none;
+ 
+} 
+/* This is the CSS used for : Logo on Login page */
+
+/* This is the CSS used for : Login page */
+body, html, #root, .app, .container {
+  width: 100%;
+  height: 100%;
+}
+
+
+.container {
+  font-size: 28px;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: lightgray;
+}
+
+.loginForm {
+ box-sizing: border-box;
+ width: 100%;
+ max-width: 400px;
+ padding-left: 20px;
+ padding-right: 20px;
+ text-align: center;
+}
+
+.inputField {
+ padding-top: 16px;
+}
+
+.input {
+ box-sizing: border-box;
+ outline: none;
+ border: solid 2px forestgreen;
+ border-radius: 4px;
+ color: #292929;
+ width: 100%;
+ padding: 12px;
+ font-size: 14px;
+ background: rgba(255, 255, 255, 1);
+ text-align: center;
+}
+
+.submitButton {
+ padding-top: 16px;
+}
+
+
+.btn {
+ width: 100%;
+ min-width: 280px;
+ color: #565656;
+ padding: 12px;
+ font-size: 14px;
+ font-weight: bold;
+ border: solid 2px forestgreen;
+ border-radius: 4px;
+ background: #fff;
+ cursor: pointer;
+}
+/* This is the CSS used for : Login page */
